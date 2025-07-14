@@ -1,11 +1,11 @@
 # Getting Started
--Databases: MongoDb
--Java: 17
+- Databases: MongoDb
+- Java: 17
 
 # Dependency
--Spring Boot
--MongoDb Db connecction
--Lombok
+- Spring Boot
+- MongoDb Db connecction
+- Lombok
 
 # Description
 - When we are providing Url it will Short url and Store into database in return with you with Short URL.
